@@ -1,1 +1,4 @@
-
+mode: all
+total time: 00:00:01
+max_features = 25
+title_weight = 5
